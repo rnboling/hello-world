@@ -1,3 +1,4 @@
 # hello-world
 Testing repository for learning Git
-Lots of random comments about me
+Lots of more random comments about me
+Even more comments in the second branch I created
